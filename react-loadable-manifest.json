@@ -1,0 +1,10 @@
+{
+  "app\\page.tsx -> @/components/robot/RobotCanvas": {
+    "id": 5445,
+    "files": [
+      "static/chunks/b536a0f1.935d5b8596592681.js",
+      "static/chunks/283.fd021e5207766967.js",
+      "static/chunks/445.4eec5efd0b349484.js"
+    ]
+  }
+}
